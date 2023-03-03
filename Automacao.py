@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pd #Utilizando biblioteca Pandas
 import requests
 
 url = "https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"
